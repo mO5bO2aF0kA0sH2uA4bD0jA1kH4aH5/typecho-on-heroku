@@ -9,9 +9,6 @@
     },
     {
       "plan": "heroku-postgresql:hobby-dev"
-    },
-    {
-      "plan": "heroku-postgresql"
     }
   ],
   "stack": "heroku-20"
